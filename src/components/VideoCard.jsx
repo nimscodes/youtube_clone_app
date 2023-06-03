@@ -48,7 +48,7 @@ const VideoCard = ({
             justifyContent: "center",
             borderRadius: 1
           }}>
-            1:30:00
+            {/* 1:30:00 */}
           </Typography>
         </CardMedia>
         <CardContent sx={{ backgroundColor: "#1e1e1e", height: "106px" }}>
